@@ -94,7 +94,7 @@ class _LoginScreanState extends State<LoginScrean> {
                   } else if (state is LoginFailure) {
                     ScaffoldMessenger.of(context).showSnackBar(SnackBar(
                       content: Text(state.error),
-                      backgroundColor: AppColors.primaryColor,
+                      backgroundColor: AppColors.scondaryColor,
                     ));
                   }
                 },
