@@ -15,8 +15,8 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
         if (response.success == true) {
           emit(LoginSucess());
         } else {
-          emit(LoginSucess());
-          // emit(LoginFailure(response.message.toString()));
+          // emit(LoginSucess());
+          emit(LoginFailure(response.message.toString()));
         }
       } catch (e) {
         emit(LoginFailure(e.toString()));
@@ -24,20 +24,4 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
     });
   }
 
-  // Stream<LoginState> mapEventToState(LoginEvent event) async* {
-  //   if (event is LoginSubmitted) {
-  //     yield LoginLoading();
-  //     try {
-  //       final success =
-  //           await authRepository.Login(event.username, event.password);
-  //       if (success) {
-  //         yield LoginSucess();
-  //       } else {
-  //         yield LoginFailure('invaild username or password');
-  //       }
-  //     } catch (e) {
-  //       yield LoginFailure(e.toString());
-  //     }
-  //   }
-  // }
 }
