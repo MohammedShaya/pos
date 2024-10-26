@@ -1,0 +1,86 @@
+
+{
+  "success": true,
+  "message": "Categories retrieved successfully",
+  "data": [
+    {
+      "id": 11,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "name": "Fishes",
+      "price": 1,
+      "imagePath": "https://pos.rofood.co/public/storage/meal/163/t6tkA6q3SNXcJYwjl2O05eDHrf5NKu73xOeff0Y4.jpg"
+    }
+
+  ],
+  "error": null
+}

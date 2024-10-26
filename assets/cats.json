@@ -1,0 +1,52 @@
+
+{
+  "success": true,
+  "message": "Categories retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "Fishes"
+    },
+    {
+      "id": 2,
+      "name": "Pasta"
+    },
+    {
+      "id": 3,
+      "name": "Chicken"
+    },
+    {
+      "id": 4,
+      "name": "Meat"
+    },
+    {
+      "id": 5,
+      "name": "Drinks"
+    },
+    {
+      "id": 6,
+      "name": "Chicken"
+    },
+    {
+      "id": 7,
+      "name": "Meat"
+    },
+    {
+      "id": 8,
+      "name": "Drinks"
+    },
+    {
+      "id": 9,
+      "name": "Chicken"
+    },
+    {
+      "id": 10,
+      "name": "Meat"
+    },
+    {
+      "id": 11,
+      "name": "Drinks"
+    }
+  ],
+  "error": null
+}
